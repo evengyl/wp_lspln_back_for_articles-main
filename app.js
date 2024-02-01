@@ -11,11 +11,6 @@ import * as path from 'path';
 
 
 
-
-
-
-
-
 // Define configuration for connecting to the WordPress API
 const wpCofig = {
     url: 'https://www.lasciencepourlesnuls.fr',
